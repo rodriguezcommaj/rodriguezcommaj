@@ -1,6 +1,6 @@
 ### I'm Jason Rodriguez—a designer, writer, coder, and marketer. 
 
-*You've probably seen on a webinar or conference stage talking about email marketing, design, development, accessibility, inclusion... stuff like that. I work on marketing operations at GitHub.*
+**You've probably seen on a webinar or conference stage talking about email marketing, design, development, accessibility, inclusion... stuff like that. I work on marketing operations at GitHub.**
 
 I've been creating websites, emails, and all that stuff we call "content" since 2007. I blog about it [on my website](https://rodriguezcommaj.com) and send an email newsletter called **Regular Communication**. [You should subscribe right now](https://rodriguezcommaj.com/newsletter).
 
