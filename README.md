@@ -6,4 +6,4 @@
 
 You've probably seen me on a webinar or conference stage talking about email marketing, design, development, accessibility, inclusion... stuff like that. I work on marketing operations right here at GitHub. 
 
-[Reach out](mailto:jason@rodriguezcommaj.com) if you want to chat about the web, email, or your favorite ukulele. ✌️
+[Reach out via email](mailto:jason@rodriguezcommaj.com) or <a rel="me" href="https://mastodon.social/@rodriguezcommaj">Mastodon</a> if you want to chat about the web, email, or your favorite ukulele. ✌️
