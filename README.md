@@ -6,4 +6,4 @@
 
 You've probably seen me on a webinar or conference stage talking about email marketing, design, development, accessibility, inclusion... stuff like that. I work on marketing operations right here at GitHub. 
 
-<a href="mailto:jason@rodriguezcommaj.com">Reach out via email</a> or <a rel="me" href="https://mastodon.social/@rodriguezcommaj">Mastodon</a> if you want to chat about the web, email, or your favorite ukulele. ✌️
+<a href="mailto:jason@rodriguezcommaj.com">Reach out via email</a> or [Mastodon]([https://google.com](https://mastodon.social/@rodriguezcommaj)){:rel=“me”}if you want to chat about the web, email, or your favorite ukulele. ✌️
